@@ -1,11 +1,14 @@
 {
-  "private" : true,
+  "private": true,
   "name": "stream-adventure",
   "version": "0.0.0",
   "description": "ERROR: No README.md file found!",
   "main": "beepboop.js",
   "dependencies": {
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "concat-stream": "~1.0.0",
+    "request": "~2.22.0",
+    "websocket-stream": "~0.2.0"
   },
   "devDependencies": {},
   "scripts": {
