@@ -1,0 +1,21 @@
+{
+  "private" : true,
+  "name": "stream-adventure",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "beepboop.js",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@166.78.104.46:weisjohn/stream-adventure.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "bf7a794a0ea603f1d2dda83216f556da21f55035"
+}
