@@ -8,7 +8,8 @@
     "through": "~2.3.4",
     "concat-stream": "~1.0.0",
     "request": "~2.22.0",
-    "websocket-stream": "~0.2.0"
+    "websocket-stream": "~0.2.0",
+    "trumpet": "~1.5.4"
   },
   "devDependencies": {},
   "scripts": {
