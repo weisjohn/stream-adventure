@@ -9,7 +9,7 @@ var upper = through(function(buf) {
 var server = http.createServer(function(req, res) {
     if (req.method === "POST") {
         req.pipe(upper).pipe(res);
-    }d\
+    }
 });
 
 server.listen(8000);
